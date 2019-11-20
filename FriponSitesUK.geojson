@@ -43,6 +43,10 @@
 
      
       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 2.336733, 48.836595 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRIF02.jpg' target='_blank'>Observatoire de Paris</a>"}
+      },
+      { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [  2.299466,   49.89907 ]}, 
           "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRPI01.jpg' target='_blank'>Amiens</a>"}
       },  
@@ -445,10 +449,6 @@
           "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRLO03.jpg' target='_blank'>Homecourt</a>"}
       },
        { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [ 2.336733, 48.836595 ]},
-          "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRIF02.jpg' target='_blank'>Observatoire de Paris</a>"}
-      },
-       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ -1.674733, 48.105705 ]},
           "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRBR02.jpg' target='_blank'>Rennes</a>"}
       },
@@ -555,10 +555,10 @@
          { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 6.5256694,  53.2494583]},
           "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLNN01.jpg' target='_blank'>Groningen</a>"}},
-         { "type": "Feature",
+        { "type": "Feature",
          "geometry": {"type": "Point", "coordinates": [ 7.00643,  52.37249]},
-         "properties": {
-        "Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLEN01.jpg' target='_blank'>Denekamp</a>"}},
+         "properties": {"marker-color": "#888888","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLEN01.jpg' target='_blank'>Denekamp</a>"}
+        },
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [ 8.860698,  48.751853]},
           "properties": {"marker-color": "#888888","Name":"<a href='http://jzomh6hbg08ilqe3.myfritz.net/allsky_stack.jpg' target='_blank'>Weil der Stadt, Kepler Observatory </a>"}
