@@ -31,12 +31,12 @@
 
       { "type": "Feature",  
         "geometry": {"type": "Point", "coordinates": [-1.307598,51.57617]},
-          "properties": {"marker-color": "#FF9900","Name":"ESA Harwell"}
+          "properties": {"marker-color": "#ff4400","Name":"ESA Harwell"}
       },
 
 
       { "type": "Feature",  
-        "geometry": {"type": "Point", "coordinates": [-1.207598,51.47617]},
+        "geometry": {"type": "Point", "coordinates": [-1.1,51.3]},
           "properties": {"marker-color": "#888888","Name":"Nowhere"}
       },
 
