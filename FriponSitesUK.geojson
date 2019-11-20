@@ -31,15 +31,15 @@
 
       { "type": "Feature",  
         "geometry": {"type": "Point", "coordinates": [-1.307598,51.57617]},
-          "properties": {"marker-color": "#00aa00","Name":"Harwell</a>"}
+          "properties": {"marker-color": "#00aa00","Name":"Harwell"}
       },
-
 
 
       { "type": "Feature",  
-        "geometry": {"type": "Point", "coordinates": [-1.25,51.]},
-          "properties": {"marker-color": "#888888","Name":"Orestes</a>"}
+        "geometry": {"type": "Point", "coordinates": [-1.207598,51.47617]},
+          "properties": {"marker-color": "#888888","Name":"Nowhere"}
       },
+
 
 
 
