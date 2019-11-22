@@ -30,7 +30,7 @@
 
 
 
-{ "type": "Feature", "properties": {"marker-color": "#cccc00": "07 ESA Harwell", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.30761, 51.5761 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#cccc00","Name": "07 ESA Harwell", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.30761, 51.5761 ] } },
 { "type": "Feature", "properties": {"marker-color": "#cccc00","Name": "08 St Davids", "description": null }, "geometry": { "type": "Point", "coordinates": [ -5.265941502242578, 51.881124720428929 ] } },
 
 
@@ -99,7 +99,7 @@
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "69 Salcombe", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.770435, 50.235509 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "70 Bath", "description": null }, "geometry": { "type": "Point", "coordinates": [ -2.362431, 51.379412 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "71 Eastbourne", "description": null }, "geometry": { "type": "Point", "coordinates": [ 0.281325, 50.764156 ] } },
-{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "72 Builth Wells", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.405168, 52.148975 ] } }
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "72 Builth Wells", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.405168, 52.148975 ] } },
 
 
 
