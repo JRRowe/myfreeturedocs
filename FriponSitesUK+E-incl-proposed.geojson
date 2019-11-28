@@ -1,0 +1,209 @@
+{ "type": "FeatureCollection",
+    "features": [
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-3.184408,50.801832]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSW01.jpg' target='_blank'>Honiton</a>"}
+      },
+      { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [-0.169234,51.637359]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENGL01.jpg' target='_blank'>East Barnet</a>"}
+      },
+      { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [-2.233606,53.474365]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENNW01.jpg' target='_blank'>University of Manchester</a>"}
+      },
+      { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [-6.649632,54.352350]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENNI01.jpg' target='_blank'>Armagh Observatory & Planetarium</a>"}
+      },
+      { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [1.07208,51.2735]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSE02.jpg' target='_blank'>Canterbury</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-3.177688,51.485854]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_GBWL01.jpg' target='_blank'>Cardiff, National Museum Wales</a>"}
+      },    
+        
+
+
+
+
+{ "type": "Feature", "properties": {"marker-color": "#cccc00","Name": "ESA Harwell", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.30761, 51.5761 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#cccc00","Name": "St Davids", "description": null }, "geometry": { "type": "Point", "coordinates": [ -5.265941502242578, 51.881124720428929 ] } },
+
+
+
+
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Dublin", "description": null }, "geometry": { "type": "Point", "coordinates": [ -6.3386946, 53.38735 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Lerwick", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.185891, 60.139652 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Edinburgh", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.314936, 55.912531 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Hartland", "description": null }, "geometry": { "type": "Point", "coordinates": [ -4.480535, 50.993627 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Eskdalemuir", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.173245, 55.268892 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Keyworth", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.078924304967682, 52.878803993958911 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Truro", "description": null }, "geometry": { "type": "Point", "coordinates": [ -5.074713, 50.302123 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Barnstaple", "description": null }, "geometry": { "type": "Point", "coordinates": [ -4.112333, 51.063592 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Bournemouth", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.854422, 50.787901 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Newport IoW", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.276693, 50.672279 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Littel Walsingham", "description": null }, "geometry": { "type": "Point", "coordinates": [ 0.828578, 52.90677 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Kirkwall", "description": null }, "geometry": { "type": "Point", "coordinates": [ -2.956351, 58.980885 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "St Kilda", "description": null }, "geometry": { "type": "Point", "coordinates": [ -8.584977, 57.818954 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Stornoway", "description": null }, "geometry": { "type": "Point", "coordinates": [ -6.378937, 58.208947 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Castlebay, Barra", "description": null }, "geometry": { "type": "Point", "coordinates": [ -7.487055, 56.954969 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Douglas, Isle of Man", "description": null }, "geometry": { "type": "Point", "coordinates": [ -4.4814236, 54.15077386 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Wick", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.090047000269376, 58.439691000186613 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Kinlochbervie", "description": null }, "geometry": { "type": "Point", "coordinates": [ -5.052845, 58.459044 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Portree, Skye", "description": null }, "geometry": { "type": "Point", "coordinates": [ -6.197024, 57.415279 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Ullapool", "description": null }, "geometry": { "type": "Point", "coordinates": [ -5.162012, 57.895757 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Inverness", "description": null }, "geometry": { "type": "Point", "coordinates": [ -4.225636, 57.480241 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Lossiemouth", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.287687, 57.718839 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Aberdeen", "description": null }, "geometry": { "type": "Point", "coordinates": [ -2.094859, 57.146022 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Arbroath", "description": null }, "geometry": { "type": "Point", "coordinates": [ -2.587184, 56.5545 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Tobermory, Mull", "description": null }, "geometry": { "type": "Point", "coordinates": [ -6.07056, 56.622075 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Bowmore, Islay", "description": null }, "geometry": { "type": "Point", "coordinates": [ -6.287988, 55.756185 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Glasgow", "description": null }, "geometry": { "type": "Point", "coordinates": [ -4.288275, 55.871993 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Fort William", "description": null }, "geometry": { "type": "Point", "coordinates": [ -5.106426, 56.82181 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Aviemore", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.825038, 57.196928 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Newton Stewart", "description": null }, "geometry": { "type": "Point", "coordinates": [ -4.485623999920571, 54.95962299905456 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Berwick-upon-Tweed", "description": null }, "geometry": { "type": "Point", "coordinates": [ -2.00552, 55.769326 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Malin Head", "description": null }, "geometry": { "type": "Point", "coordinates": [ -7.338572, 55.371451 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Glencolumbkille", "description": null }, "geometry": { "type": "Point", "coordinates": [ -8.733443, 54.707578 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Enniskillen", "description": null }, "geometry": { "type": "Point", "coordinates": [ -7.633062, 54.343747 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Carrowdore", "description": null }, "geometry": { "type": "Point", "coordinates": [ -5.571653, 54.572427 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Pitlochry", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.729531, 56.703963 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Bovedy", "description": null }, "geometry": { "type": "Point", "coordinates": [ -6.608888, 54.946210105902743 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Belmullet", "description": null }, "geometry": { "type": "Point", "coordinates": [ -9.98458, 54.226546 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Ballyhaunis", "description": null }, "geometry": { "type": "Point", "coordinates": [ -8.764527, 53.762762 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Mullingar", "description": null }, "geometry": { "type": "Point", "coordinates": [ -7.338078, 53.52497 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Galway", "description": null }, "geometry": { "type": "Point", "coordinates": [ -9.053589, 53.268741 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Tipperary", "description": null }, "geometry": { "type": "Point", "coordinates": [ -8.161604, 52.473407 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Wexford", "description": null }, "geometry": { "type": "Point", "coordinates": [ -6.46087, 52.335891 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Cork", "description": null }, "geometry": { "type": "Point", "coordinates": [ -8.48351, 51.895661 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Dingle", "description": null }, "geometry": { "type": "Point", "coordinates": [ -10.271612, 52.139592 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Newcastle upon Tyne", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.613946, 54.979332 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Middlesborough", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.234947, 54.573544 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Whitehaven", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.588542, 54.549006 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Brough", "description": null }, "geometry": { "type": "Point", "coordinates": [ -2.318112, 54.526301 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Liverpool", "description": null }, "geometry": { "type": "Point", "coordinates": [ -2.994504, 53.406898 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Leeds", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.532475, 53.789899 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Hull", "description": null }, "geometry": { "type": "Point", "coordinates": [ -0.338936, 53.743556 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Hollyhead", "description": null }, "geometry": { "type": "Point", "coordinates": [ -4.635225, 53.309123 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Abersoch", "description": null }, "geometry": { "type": "Point", "coordinates": [ -4.505513, 52.824269 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Welshpool", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.145426, 52.657893 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Aberystwyth", "description": null }, "geometry": { "type": "Point", "coordinates": [ -4.08511, 52.415084 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Birmingham", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.911753, 52.484043 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Cambridge", "description": null }, "geometry": { "type": "Point", "coordinates": [ 0.122821, 52.205204 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Aldeburgh", "description": null }, "geometry": { "type": "Point", "coordinates": [ 1.599082, 52.154088 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Hugh Town, Scilly Isles", "description": null }, "geometry": { "type": "Point", "coordinates": [ -6.311876, 49.914186 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Salcombe", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.770435, 50.235509 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Bath", "description": null }, "geometry": { "type": "Point", "coordinates": [ -2.362431, 51.379412 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Eastbourne", "description": null }, "geometry": { "type": "Point", "coordinates": [ 0.281325, 50.764156 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Builth Wells", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.405168, 52.148975 ] } },
+
+
+
+     
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 2.336733, 48.836595 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRIF02.jpg' target='_blank'>Observatoire de Paris</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  2.299466,   49.89907 ]}, 
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRPI01.jpg' target='_blank'>Amiens</a>"}
+      },  
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-1.6927,49.6657]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNO01.jpg' target='_blank'>Querqueville</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-4.504675,48.408680556]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRBR01.jpg' target='_blank'>Brest</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -3.52694, 48.78361 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRBR03.jpg' target='_blank'>Pleumeur Bodou</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -1.446223,   48.663645 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRNO06.jpg' target='_blank'>Vains</a>"}
+      }, 
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -1.727918,   49.630688 ]}, 
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRNO07.jpg' target='_blank'>Ludiver</a>"}
+      },    
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-0.366872222,49.192327778]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNO03.jpg' target='_blank'>Caen</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -0.48194,    48.765 ]}, 
+          "properties": {"Name":"Flers"}
+      }, 
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [1.532777778,48.579722222]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCE04.jpg' target='_blank'>Pierres</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.1794019,48.7063942]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF04.jpg' target='_blank'>Orsay</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.35712722,48.8432778]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF05.jpg' target='_blank'>Paris MNHN</a>"}
+      },
+      { "type": "Feature", 
+        "geometry": {"type": "Point",  "coordinates": [2.7422,48.742683]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF03.jpg' target='_blank'>Gretz-Armainvilliers</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [1.084444,49.44722]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNO05.jpg' target='_blank'>Rouen</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  2.798909,   49.399648 ]}, 
+          "properties": {"Name":"Compiègne"}
+      },  
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.067222222,49.24325]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCA01.jpg' target='_blank'>Reims</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  3.323283,   49.835909 ]}, 
+          "properties": {"Name":"Saint Quentin"}
+      },    
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.765284,50.28739]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP05.jpg' target='_blank'>Arras</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [1.605769,50.763017]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP03.jpg' target='_blank'>Wimereux</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [3.070833,50.615833]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP01.jpg' target='_blank'>Lille</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [3.987009,50.277946]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP04.jpg' target='_blank'>Maubeuge</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.418402778,52.218752778]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_NLWN01.jpg' target='_blank'>Noordwijk</a>"}
+      },
+      { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [3.53767, 51.57192]},
+      "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLWN02.jpg' target='_blank'>Oostkapelle</a>"}
+      },
+      { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [4.357075,50.796728]},
+      "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_BEBR01.jpg' target='_blank'>Bruxelles</a>"} 
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.366519,50.99608]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP02.jpg' target='_blank'>Cappelle la Grande</a>"}
+      }
+      
+    
+    ]}
